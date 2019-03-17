@@ -1,0 +1,1297 @@
+{"nodes":
+[
+{
+  "name": "CD34",
+  "id": 0
+}
+,
+{
+  "name": "GIST",
+  "id": 1
+}
+,
+{
+  "name": "kaposi",
+  "id": 2
+}
+,
+{
+  "name": "epithelioid sarcoma",
+  "id": 3
+}
+,
+{
+  "name": "S100",
+  "id": 4
+}
+,
+{
+  "name": "melanoma",
+  "id": 5
+}
+,
+{
+  "name": "schwannoma",
+  "id": 6
+}
+,
+{
+  "name": "MPNST",
+  "id": 7
+}
+,
+{
+  "name": "granular cell tumor",
+  "id": 8
+}
+,
+{
+  "name": "astrocytoma",
+  "id": 9
+}
+,
+{
+  "name": "GBM",
+  "id": 10
+}
+,
+{
+  "name": "chordoma",
+  "id": 11
+}
+,
+{
+  "name": "ependymoma",
+  "id": 12
+}
+,
+{
+  "name": "c-kit",
+  "id": 13
+}
+,
+{
+  "name": "seminoma",
+  "id": 14
+}
+,
+{
+  "name": "teratoma",
+  "id": 15
+}
+,
+{
+  "name": "ALK",
+  "id": 16
+}
+,
+{
+  "name": "ALCL",
+  "id": 17
+}
+,
+{
+  "name": " DLBCL",
+  "id": 18
+}
+,
+{
+  "name": "bcl2",
+  "id": 19
+}
+,
+{
+  "name": "mantle cell lymphoma",
+  "id": 20
+}
+,
+{
+  "name": "follicular lymphoma",
+  "id": 21
+}
+,
+{
+  "name": "ALL",
+  "id": 22
+}
+,
+{
+  "name": "CK7",
+  "id": 23
+}
+,
+{
+  "name": "adenocarcinoma of lung",
+  "id": 24
+}
+,
+{
+  "name": "TTF-1",
+  "id": 25
+}
+,
+{
+  "name": "inhibin",
+  "id": 26
+}
+,
+{
+  "name": "adrenocortical carcinoma",
+  "id": 27
+}
+,
+{
+  "name": "CD30",
+  "id": 28
+}
+,
+{
+  "name": "HMB45",
+  "id": 29
+}
+,
+{
+  "name": "angiomyolipoma",
+  "id": 30
+}
+,
+{
+  "name": "Melan-A",
+  "id": 31
+}
+,
+{
+  "name": "breast carcinoma",
+  "id": 32
+}
+,
+{
+  "name": "bcl6",
+  "id": 33
+}
+,
+{
+  "name": "Burkitts lymphoma",
+  "id": 34
+}
+,
+{
+  "name": "synaptophysin",
+  "id": 35
+}
+,
+{
+  "name": "carcinoid tumor",
+  "id": 36
+}
+,
+{
+  "name": "chromogranin",
+  "id": 37
+}
+,
+{
+  "name": "beta-hCG",
+  "id": 38
+}
+,
+{
+  "name": "choriocarcinoma",
+  "id": 39
+}
+,
+{
+  "name": "CK20",
+  "id": 40
+}
+,
+{
+  "name": "colorectal carcinoma",
+  "id": 41
+}
+,
+{
+  "name": "FXIIIa",
+  "id": 42
+}
+,
+{
+  "name": "dermatofibroma",
+  "id": 43
+}
+,
+{
+  "name": "WT-1",
+  "id": 44
+}
+,
+{
+  "name": "desmoplastic small round cell tumor",
+  "id": 45
+}
+,
+{
+  "name": "embrional carcinoma",
+  "id": 46
+}
+,
+{
+  "name": "p16",
+  "id": 47
+}
+,
+{
+  "name": "endocervical carcinoma",
+  "id": 48
+}
+,
+{
+  "name": "endometrial carcinoma",
+  "id": 49
+}
+,
+{
+  "name": "FCC lymphoma",
+  "id": 50
+}
+,
+{
+  "name": "CD10",
+  "id": 51
+}
+,
+{
+  "name": "thyroglobulin",
+  "id": 52
+}
+,
+{
+  "name": "follicular carcinoma of thyroid",
+  "id": 53
+}
+,
+{
+  "name": "giant cell tumor of tendon sheath",
+  "id": 54
+}
+,
+{
+  "name": "AFP",
+  "id": 55
+}
+,
+{
+  "name": "hepatocellular carcinoma",
+  "id": 56
+}
+,
+{
+  "name": "Hodgkins lymphoma",
+  "id": 57
+}
+,
+{
+  "name": "CD15",
+  "id": 58
+}
+,
+{
+  "name": "large B/T cell lymphoma",
+  "id": 59
+}
+,
+{
+  "name": "LBL",
+  "id": 60
+}
+,
+{
+  "name": "alpha-actin",
+  "id": 61
+}
+,
+{
+  "name": "leiomyoma",
+  "id": 62
+}
+,
+{
+  "name": "leiomyosarcoma",
+  "id": 63
+}
+,
+{
+  "name": "malignant fibrous histiocytoma",
+  "id": 64
+}
+,
+{
+  "name": "CD68",
+  "id": 65
+}
+,
+{
+  "name": "medullary carcinoma of thyroid",
+  "id": 66
+}
+,
+{
+  "name": "calcitonin",
+  "id": 67
+}
+,
+{
+  "name": "merkel cell tumor",
+  "id": 68
+}
+,
+{
+  "name": "CK5/6",
+  "id": 69
+}
+,
+{
+  "name": "mesothelioma",
+  "id": 70
+}
+,
+{
+  "name": "neuroblastoma",
+  "id": 71
+}
+,
+{
+  "name": "CD56",
+  "id": 72
+}
+,
+{
+  "name": "NK/T cell lymphoma",
+  "id": 73
+}
+,
+{
+  "name": "ovarian mucinous carcinoma",
+  "id": 74
+}
+,
+{
+  "name": "ovarian serous carcinoma",
+  "id": 75
+}
+,
+{
+  "name": "CA-125",
+  "id": 76
+}
+,
+{
+  "name": "pancreatic carcinoma",
+  "id": 77
+}
+,
+{
+  "name": "paraganglioma",
+  "id": 78
+}
+,
+{
+  "name": "Pecoma",
+  "id": 79
+}
+,
+{
+  "name": "pheochromocytoma",
+  "id": 80
+}
+,
+{
+  "name": "CD99",
+  "id": 81
+}
+,
+{
+  "name": "PNET/Ewigs tumor",
+  "id": 82
+}
+,
+{
+  "name": "FLI1",
+  "id": 83
+}
+,
+{
+  "name": "desmin",
+  "id": 84
+}
+,
+{
+  "name": "rhabdomyosarcoma",
+  "id": 85
+}
+,
+{
+  "name": "myogenin",
+  "id": 86
+}
+,
+{
+  "name": "p53",
+  "id": 87
+}
+,
+{
+  "name": "serous carcinoma of endometrium",
+  "id": 88
+}
+,
+{
+  "name": "small cell tumor",
+  "id": 89
+}
+,
+{
+  "name": "squamous cell carcinoma",
+  "id": 90
+}
+,
+{
+  "name": "CD1a",
+  "id": 91
+}
+,
+{
+  "name": "T-LBL",
+  "id": 92
+}
+,
+{
+  "name": "thymoma",
+  "id": 93
+}
+,
+{
+  "name": "urothelial carcinoma",
+  "id": 94
+}
+,
+{
+  "name": "Wilms tumor",
+  "id": 95
+}
+,
+{
+  "name": "yolk sac tumor",
+  "id": 96
+}
+,
+{
+  "name": "BerEP4",
+  "id": 97
+}
+,
+{
+  "name": "TdT",
+  "id": 98
+}
+,
+{
+  "name": "MPO",
+  "id": 99
+}
+,
+{
+  "name": "AML",
+  "id": 100
+}
+,
+{
+  "name": "CD31",
+  "id": 101
+}
+,
+{
+  "name": "angiosarcoma",
+  "id": 102
+}
+,
+{
+  "name": "GFAP",
+  "id": 103
+}
+,
+{
+  "name": "CD20",
+  "id": 104
+}
+,
+{
+  "name": "B-ALL",
+  "id": 105
+}
+,
+{
+  "name": "EMA",
+  "id": 106
+}
+,
+{
+  "name": "CML",
+  "id": 107
+}
+,
+{
+  "name": "meningioma",
+  "id": 108
+}
+,
+{
+  "name": "neuroblastoma",
+  "id": 109
+}
+,
+{
+  "name": "perineuroma",
+  "id": 110
+}
+,
+{
+  "name": "plasma cell myeloma",
+  "id": 111
+}
+,
+{
+  "name": "CD138",
+  "id": 112
+}
+,
+{
+  "name": "plasmacytoma",
+  "id": 113
+}
+,
+{
+  "name": "PSA",
+  "id": 114
+}
+,
+{
+  "name": "prostate carcinoma",
+  "id": 115
+}
+,
+{
+  "name": "PSAP(PAP)",
+  "id": 116
+}
+,
+{
+  "name": "RCC",
+  "id": 117
+}
+,
+{
+  "name": "renal cell carcinoma",
+  "id": 118
+}
+,
+{
+  "name": "CD23",
+  "id": 119
+}
+,
+{
+  "name": "SLL/CLL",
+  "id": 120
+}
+,
+{
+  "name": "solitary fibrous tumor",
+  "id": 121
+}
+,
+{
+  "name": "synovial sarcoma",
+  "id": 122
+}
+],
+
+"links": [
+{
+  "caption": "IS_POSITIVE",
+  "source": 1,
+  "target": 13
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 1,
+  "target": 0
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 2,
+  "target": 0
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 3,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 3,
+  "target": 0
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 5,
+  "target": 31
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 5,
+  "target": 29
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 5,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 6,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 7,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 8,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 9,
+  "target": 103
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 9,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 10,
+  "target": 103
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 10,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 11,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 11,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 12,
+  "target": 103
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 12,
+  "target": 4
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 14,
+  "target": 13
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 15,
+  "target": 13
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 17,
+  "target": 28
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 17,
+  "target": 16
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 18,
+  "target": 16
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 20,
+  "target": 19
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 21,
+  "target": 19
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 22,
+  "target": 98
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 22,
+  "target": 51
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 22,
+  "target": 0
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 24,
+  "target": 97
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 24,
+  "target": 25
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 24,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 27,
+  "target": 26
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 30,
+  "target": 31
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 30,
+  "target": 29
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 32,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 34,
+  "target": 51
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 34,
+  "target": 33
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 36,
+  "target": 37
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 36,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 39,
+  "target": 38
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 41,
+  "target": 40
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 43,
+  "target": 42
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 45,
+  "target": 44
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 46,
+  "target": 28
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 48,
+  "target": 47
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 49,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 50,
+  "target": 51
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 50,
+  "target": 33
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 53,
+  "target": 25
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 53,
+  "target": 52
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 54,
+  "target": 42
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 56,
+  "target": 55
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 57,
+  "target": 28
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 57,
+  "target": 58
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 59,
+  "target": 28
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 60,
+  "target": 51
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 60,
+  "target": 98
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 62,
+  "target": 61
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 63,
+  "target": 61
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 64,
+  "target": 65
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 64,
+  "target": 42
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 66,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 66,
+  "target": 67
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 66,
+  "target": 25
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 68,
+  "target": 72
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 68,
+  "target": 37
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 68,
+  "target": 40
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 70,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 70,
+  "target": 69
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 71,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 73,
+  "target": 72
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 74,
+  "target": 40
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 75,
+  "target": 76
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 75,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 77,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 77,
+  "target": 40
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 78,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 79,
+  "target": 29
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 80,
+  "target": 37
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 80,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 82,
+  "target": 81
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 82,
+  "target": 83
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 85,
+  "target": 86
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 85,
+  "target": 84
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 88,
+  "target": 87
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 89,
+  "target": 35
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 89,
+  "target": 37
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 90,
+  "target": 69
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 92,
+  "target": 91
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 93,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 94,
+  "target": 23
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 94,
+  "target": 116
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 94,
+  "target": 40
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 95,
+  "target": 72
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 95,
+  "target": 44
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 96,
+  "target": 55
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 100,
+  "target": 99
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 102,
+  "target": 65
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 102,
+  "target": 101
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 105,
+  "target": 104
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 107,
+  "target": 51
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 108,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 109,
+  "target": 72
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 110,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 111,
+  "target": 106
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 113,
+  "target": 112
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 115,
+  "target": 114
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 115,
+  "target": 116
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 118,
+  "target": 117
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 120,
+  "target": 119
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 121,
+  "target": 0
+}
+,
+{
+  "caption": "IS_POSITIVE",
+  "source": 122,
+  "target": 106
+}
+]}
